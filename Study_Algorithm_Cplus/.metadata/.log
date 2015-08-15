@@ -36,3 +36,6 @@ org.apache.http.ConnectionClosedException: Premature end of Content-Length delim
 !MESSAGE Save operation warnings.
 !SUBENTRY 1 org.eclipse.core.resources 2 234 2015-08-15 10:35:02.559
 !MESSAGE The project description file (.project) for 'RemoteSystemsTempFiles' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-08-15 10:41:21.203
+!MESSAGE Indexed 'yu' (1 sources, 80 headers) in 3.54 sec: 7,431 declarations; 13,223 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
