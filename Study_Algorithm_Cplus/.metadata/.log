@@ -39,3 +39,12 @@ org.apache.http.ConnectionClosedException: Premature end of Content-Length delim
 
 !ENTRY org.eclipse.cdt.core 1 0 2015-08-15 10:41:21.203
 !MESSAGE Indexed 'yu' (1 sources, 80 headers) in 3.54 sec: 7,431 declarations; 13,223 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-08-15 11:19:25.718
+!MESSAGE Indexed 'AlgorithmThought' (1 sources, 80 headers) in 3.81 sec: 7,431 declarations; 13,223 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-08-15 11:20:18.782
+!MESSAGE Indexed '01_AlgorithmThought' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-08-15 11:21:19.078
+!MESSAGE Indexed '01-AlgorithmThought' (1 sources, 80 headers) in 3.01 sec: 7,431 declarations; 13,223 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
