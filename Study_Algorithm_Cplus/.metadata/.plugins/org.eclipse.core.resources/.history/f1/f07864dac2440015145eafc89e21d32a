@@ -30,27 +30,13 @@ int fact(int n)
 
 /**
  *
- *数值转换 01_0_1
+ *数值转换
  */
-void converTo(int number,int baseNumber)
-{
-	int i= number%baseNumber;
-	if(number==0)
-	{
-		return;
-	}
-	else
-	{
-		cout<<i<<endl;
-		converTo(number/baseNumber,baseNumber);
-	}
-
-}
+ int
 
 
 int main() {
 	cout << "!!!Hello 01_AlgorithmThought!!!" << endl; // prints !!!Hello 01_AlgorithmThought!!!
-//	cout<<fact(9)<<endl;//01_0_0
-	converTo(9,2);//  01_0_1
+	cout<<fact(9)<<endl;//01_0_0
 	return 0;
 }
