@@ -1,5 +1,40 @@
-10:43:22 **** Rebuild of configuration Debug for project yu ****
+15:46:10 **** Rebuild of configuration Debug for project 01-AlgorithmThought ****
 Info: Internal Builder is used for build
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\yu.o" "..\\src\\yu.cpp" 
-g++ -o yu.exe "src\\yu.o" 
-Info: Nothing to build for yu
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\01-AlgorithmThought.o" "..\\src\\01-AlgorithmThought.cpp" 
+g++ -o 01-AlgorithmThought.exe "src\\01-AlgorithmThought.o" 
+Info: Nothing to build for 01-AlgorithmThought
+16:02:06 **** Incremental Build of configuration Debug for project 01-AlgorithmThought ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\01-AlgorithmThought.o" "..\\src\\01-AlgorithmThought.cpp" 
+g++ -o 01-AlgorithmThought.exe "src\\01-AlgorithmThought.o" 
+16:02:23 **** Incremental Build of configuration Debug for project 01-AlgorithmThought ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\01-AlgorithmThought.o" "..\\src\\01-AlgorithmThought.cpp" 
+..\src\01-AlgorithmThought.cpp: In function 'int main()':
+..\src\01-AlgorithmThought.cpp:14:6: error: 'get' was not declared in this scope
+16:02:40 **** Incremental Build of configuration Debug for project 01-AlgorithmThought ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\01-AlgorithmThought.o" "..\\src\\01-AlgorithmThought.cpp" 
+g++ -o 01-AlgorithmThought.exe "src\\01-AlgorithmThought.o" 
+16:41:08 **** Incremental Build of configuration Debug for project 01-AlgorithmThought ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\01-AlgorithmThought.o" "..\\src\\01-AlgorithmThought.cpp" 
+g++ -o 01-AlgorithmThought.exe "src\\01-AlgorithmThought.o" 
+16:42:01 **** Incremental Build of configuration Debug for project 01-AlgorithmThought ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\01-AlgorithmThought.o" "..\\src\\01-AlgorithmThought.cpp" 
+..\src\01-AlgorithmThought.cpp: In function 'int main()':
+..\src\01-AlgorithmThought.cpp:33:20: warning: left operand of comma operator has no effect [-Wunused-value]
+g++ -o 01-AlgorithmThought.exe "src\\01-AlgorithmThought.o" 
+16:42:42 **** Incremental Build of configuration Debug for project 01-AlgorithmThought ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\01-AlgorithmThought.o" "..\\src\\01-AlgorithmThought.cpp" 
+g++ -o 01-AlgorithmThought.exe "src\\01-AlgorithmThought.o" 
+16:42:53 **** Incremental Build of configuration Debug for project 01-AlgorithmThought ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\01-AlgorithmThought.o" "..\\src\\01-AlgorithmThought.cpp" 
+g++ -o 01-AlgorithmThought.exe "src\\01-AlgorithmThought.o" 
+16:50:44 **** Incremental Build of configuration Debug for project 01-AlgorithmThought ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\01-AlgorithmThought.o" "..\\src\\01-AlgorithmThought.cpp" 
+g++ -o 01-AlgorithmThought.exe "src\\01-AlgorithmThought.o" 
