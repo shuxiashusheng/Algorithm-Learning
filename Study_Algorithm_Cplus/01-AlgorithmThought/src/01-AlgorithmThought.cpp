@@ -29,8 +29,10 @@ int fact(int n)
 }
 
 /**
+ *
  *ÊıÖµ×ª»»
  */
+ int
 
 
 int main() {
