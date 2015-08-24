@@ -42,3 +42,8 @@ g++ -o 01-AlgorithmThought.exe "src\\01-AlgorithmThought.o"
 Info: Internal Builder is used for build
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\01-AlgorithmThought.o" "..\\src\\01-AlgorithmThought.cpp" 
 g++ -o 01-AlgorithmThought.exe "src\\01-AlgorithmThought.o" 
+11:15:36 **** Rebuild of configuration Debug for project 01-AlgorithmThought ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\01-AlgorithmThought.o" "..\\src\\01-AlgorithmThought.cpp" 
+g++ -o 01-AlgorithmThought.exe "src\\01-AlgorithmThought.o" 
+Info: Nothing to build for 01-AlgorithmThought
